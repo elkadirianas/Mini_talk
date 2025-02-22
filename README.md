@@ -9,7 +9,7 @@ This repository is part of the 42 Cursus. It contains the implementation of Mini
 - [Usage](#usage)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 Mini_talk is a simple project that demonstrates inter-process communication between a server and a client using Unix signals. The server waits for messages from the client, and the client sends messages to the server to be displayed.
